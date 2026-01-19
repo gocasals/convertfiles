@@ -1,0 +1,8 @@
+1- Descomprimir los archivos y carpetas
+2- ejecutar en archivo "install.py"
+3- Colocar los archvios pdf en la carpeta "input"
+4- Ejecutar "ConvertPdfToWord.py" haciendo doble clic
+5- Modificar los word generados en la carpeta "output"
+6- Ejecutar "ConvertWordToPdf.py" 
+7- Buscar los archivos finales en la carpeta "final"
+8- limpiar las carpetas 

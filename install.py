@@ -35,4 +35,10 @@ if __name__ == "__main__":
     for pkg in packages:
         install(pkg)
 
+
     print("\n🎉 Instalación finalizada. Ya podés usar los scripts de conversión.")
+
+#pip install pdfplumber pandas openpyxl
+#pip install camelot-py[cv] pandas openpyxl
+#python -m pip install --upgrade pip
+#pip install "camelot-py[cv]"
